@@ -1,8 +1,6 @@
-# React + Vite
+# Product list
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The goal of this exercise was to begin to use React and understand how it works. 
+It displays a products list. We can make a search or even check the checkbox if we don't want product without stock to be displayed.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I understood the bases of React and the notion of hook with the hooke useState in that case
